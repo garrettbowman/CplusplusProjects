@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    //comment
+    //comment 2
     std::cout << "Hello, World!"<< std::endl;
     std::cout << "Im gary!" << '\n';
 
