@@ -1,5 +1,8 @@
 #include <iostream>
-using namespace std;
+
+namespace lol {
+    x = 0;
+}
 
 int main()
 {
