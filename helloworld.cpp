@@ -14,6 +14,8 @@ int main()
 
     int x = 0; //declare
     x = 5; //assign
+
+    x*=2;
     std::cout << x << std::endl;
 
     return 0;
