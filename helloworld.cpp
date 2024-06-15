@@ -1,4 +1,6 @@
 #include <iostream>
+#include <vector>
+#include <string>
 
 namespace lol {
     int x = 0;
