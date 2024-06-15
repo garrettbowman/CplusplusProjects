@@ -1,12 +1,12 @@
 #include <iostream>
 
 namespace lol {
-    x = 0;
+    int x = 0;
 }
 
 int main()
 {
-    //comment 2
+    //comment 2 lol
     std::cout << "Hello, World!"<< std::endl;
     std::cout << "Im gary!" << '\n';
 
