@@ -1,2 +1,2 @@
 # CplusplusProjects
-xd
+Electrical engineering college exercises
