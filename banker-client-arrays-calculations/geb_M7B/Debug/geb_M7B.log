@@ -1,0 +1,4 @@
+﻿  geb_M7B.cpp
+C:\Users\Garett Bowman\Dropbox\C++\geb_M7B\geb_M7B\geb_M7B.cpp(46,6): warning C4101: 'newCheck': unreferenced local variable
+C:\Users\Garett Bowman\Dropbox\C++\geb_M7B\geb_M7B\geb_M7B.cpp(46,16): warning C4101: 'newSave': unreferenced local variable
+  geb_M7B.vcxproj -> C:\Users\Garett Bowman\Dropbox\C++\geb_M7B\Debug\geb_M7B.exe
