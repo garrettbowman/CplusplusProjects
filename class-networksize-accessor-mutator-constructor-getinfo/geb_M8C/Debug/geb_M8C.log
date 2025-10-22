@@ -1,0 +1,4 @@
+﻿  geb_M8C.cpp
+C:\Users\Garett Bowman\Dropbox\C++\geb_M8C\geb_M8C\geb_M8C.cpp(54,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Garett Bowman\Dropbox\C++\geb_M8C\geb_M8C\geb_M8C.cpp(72,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  geb_M8C.vcxproj -> C:\Users\Garett Bowman\Dropbox\C++\geb_M8C\Debug\geb_M8C.exe
