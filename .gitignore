@@ -1,0 +1,59 @@
+# Build artifacts
+build/
+bin/
+obj/
+out/
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+
+# Compiled debug and profiling files
+*.pdb
+*.idb
+*.mod
+*.exp
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+install_manifest.txt
+compile_commands.json
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.aps
+*.ncb
+*.ilk
+*.log
+Debug/
+Release/
+x64/
+x86/
+
+# CLion / JetBrains
+.idea/
+
+# CodeBlocks
+*.layout
+
+# Qt Creator
+*.pro.user
+*.qmake.stash
+
+# Generated files
+*.gch
+*.pch
+
+# OS clutter
+Thumbs.db
+.DS_Store

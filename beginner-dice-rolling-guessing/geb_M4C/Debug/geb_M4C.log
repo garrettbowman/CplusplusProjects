@@ -1,3 +1,0 @@
-﻿  geb_M4C.cpp
-C:\Users\Garett Bowman\Desktop\C++\geb_M4C\geb_M4C\geb_M4C.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  geb_M4C.vcxproj -> C:\Users\Garett Bowman\Desktop\C++\geb_M4C\Debug\geb_M4C.exe
