@@ -6,4 +6,4 @@ This was mostly from my first programming course of undergrad in 2021.
 
 I was careful to not post any sensitive material.
 
-![Go gators](fb.jpg "go gators")
+![Go gators](/fb.JPG "go gators")
