@@ -1,6 +1,9 @@
 # CplusplusProjects
-Collection of C++ assignments that I may need to reference in future.
 
-This was my first programming course of undergrad in 2021.
+Collection of C++ code that I may need to reference in future.
 
-I am trying to keep my C++ knowledge relevant until it is obsolete.
+This was mostly from my first programming course of undergrad in 2021.
+
+I was careful to not post any sensitive material.
+
+![Go gators](fb.jpg "go gators")
